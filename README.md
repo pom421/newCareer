@@ -1,5 +1,29 @@
 # newCareer
 
+- Git : merge, rebase, reset/. Make PR on open source projects
+- JS : the hard parts. Patterns. Functionnal programming (Point-free programming with compose)
+- React / React Router. React patterns (HOC), Context
+- Redux
+- MongoDB
+- Node / Express / NPM scripts
+- Electron
+- Blockchain : solidity
+- Visual Studio Code : ESLint + Prettier
+- Docker / Ansible
+
+# Week style
+
+- lundi soir 3H
+  - coding challenge/coding interview. Lecture
+- mercredi soir 3H
+  - coding challenge/coding interview. Lecture
+- samedi 5H
+  - Lecture. Contributing on Open Source projects or article on blog.
+  
+# Id of app
+
+- see projects on https://learn.freecodecamp.org/
+- projects from Dave Cedia
 
 ## React
 
