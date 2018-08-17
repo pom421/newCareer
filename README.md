@@ -5,21 +5,27 @@
 - React / React Router. React patterns (HOC), Context
 - React Native
 - Redux
-- MongoDB
-- Node / Express / NPM scripts
+- PWA. Service Worker.
+- MongoDB / Firebase
+- OAuth2 / Google
+- Node / Express / WebSocket
+- CSS flex / grid. Saas.
+- NPM scripts
 - Electron
 - Blockchain : solidity
 - Visual Studio Code : ESLint + Prettier
 - Docker / Ansible
+- Deployments on Heroku / Next / Netlify / AWS
 
 # Week style
 
-- lundi soir 3H
+- lundi soir 3H or Meetup
   - coding challenge/coding interview. Lecture.
-- mercredi soir 3H
+- mercredi soir 3H  or Meetup
   - coding challenge/coding interview. Lecture.
-- samedi 5H
+- samedi 5H (or Hackaton if possible)
   - Lecture. Contributing on Open Source projects or article on blog. Schedule next week's program.
+  
   
 # Id of app
 
@@ -48,8 +54,33 @@
 - http://jsbin.com/?js,console
 - https://codesandbox.io/s/new
 
+**CC / Interviews**
+
+- https://www.codingame.com/home
+- https://learn.freecodecamp.org/ : Coding Interview Prep
+
+**Videos**
+
+- https://egghead.io/courses/getting-started-with-redux (Dan Abramov)
+
+**Ressources**
+
+- https://fr.eloquentjavascript.net/contents.html
+- https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4 : Performance in JS (Addy Osmani)
+- https://addyosmani.com/blog/progressive-web-apps-with-react/ : PWA in React
+
 **Inspiration**
 
 - https://vasanthk.gitbooks.io/react-bits/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more/
 - http://lucasmreis.github.io/blog/simple-react-patterns/
 - https://www.lullabot.com/articles/how-to-learn-react
+- https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html : Design patterns in JS
+- https://images.guide/ : Images optimization
+
+**Rock stars**
+
+- https://jakearchibald.com/
+- https://github.com/addyosmani
+- https://github.com/gaearon
+- https://medium.com/@_ericelliott
+- https://github.com/shiffman
