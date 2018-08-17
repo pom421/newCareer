@@ -3,6 +3,7 @@
 - Git : merge, rebase, reset/. Make PR on open source projects
 - JS : the hard parts. Patterns. Functionnal programming (Point-free programming with compose)
 - React / React Router. React patterns (HOC), Context
+- React Native
 - Redux
 - MongoDB
 - Node / Express / NPM scripts
@@ -14,26 +15,17 @@
 # Week style
 
 - lundi soir 3H
-  - coding challenge/coding interview. Lecture
+  - coding challenge/coding interview. Lecture.
 - mercredi soir 3H
-  - coding challenge/coding interview. Lecture
+  - coding challenge/coding interview. Lecture.
 - samedi 5H
-  - Lecture. Contributing on Open Source projects or article on blog.
+  - Lecture. Contributing on Open Source projects or article on blog. Schedule next week's program.
   
 # Id of app
 
 - see projects on https://learn.freecodecamp.org/
 - projects from Dave Cedia
-
-## React
-
-- Relire React main concept
-- Lire React concept avancé
-- Utiliser codesandbox.io pour tester
-- Coder une TodoList avec la vidéo de Grafikart
-- Lire des projets React sous Github
-- But : apprendre ES6 et React en même temps. Limiter la charge mentale en utilisant uniquement codesanbox. Réfléchir aux bonnes pratiques : séparer vue et logique, HOC, 
-
+- TodoList avec la vidéo de Grafikart
 
 ## ES6
 
