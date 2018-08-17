@@ -40,9 +40,16 @@
 - Symbol
 - Generator
 
+
 `Références`
 
+**Online IDE**
+
+- http://jsbin.com/?js,console
 - https://codesandbox.io/s/new
+
+**Inspiration**
+
 - https://vasanthk.gitbooks.io/react-bits/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more/
 - http://lucasmreis.github.io/blog/simple-react-patterns/
 - https://www.lullabot.com/articles/how-to-learn-react
