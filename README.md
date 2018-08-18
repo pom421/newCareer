@@ -17,11 +17,11 @@
 - Docker / Ansible
 - Deployments on Heroku / Next / Netlify / AWS
 
-# Week style
+# Regular week
 
-- lundi soir 3H or Meetup
+- lundi soir 3H (or Meetup)
   - coding challenge/coding interview. Lecture.
-- mercredi soir 3H  or Meetup
+- mercredi soir 3H  (or Meetup)
   - coding challenge/coding interview. Lecture.
 - samedi 5H (or Hackaton if possible)
   - Lecture. Contributing on Open Source projects or article on blog. Schedule next week's program.
@@ -68,6 +68,7 @@
 - https://fr.eloquentjavascript.net/contents.html
 - https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4 : Performance in JS (Addy Osmani)
 - https://addyosmani.com/blog/progressive-web-apps-with-react/ : PWA in React
+- https://builderbook.org/book : complete app withc React, MaterialUI, Next, Express, MongoDB, Mongoose + authentication OAuth2 et Stripe integration
 
 **Inspiration**
 
