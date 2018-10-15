@@ -2,7 +2,16 @@
 
 - repetition
 - practising
-- no comparison : Dan Abramov is a genius, you aren't. It's already lost to compare yourself to geniuses. So you have nothing to lose, rid of your ego
+- no comparison, no expectation : Dan Abramov is a genius, you aren't. It's already lost to compare yourself to geniuses. So you have nothing to lose, rid of your ego
+
+# What to conquer in JS?
+
+- functionnal programming. How to test, to debug?
+- ES6 syntax : Promise, destructuring, spread, module, template string, fat arrow
+- Array, String, Number API
+- advanced JS : this, prototype, asynchron & event programming
+
+JS must serve you. You have to trust JS, to have confidence in.
 
 # newCareer
 
