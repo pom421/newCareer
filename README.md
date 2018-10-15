@@ -1,3 +1,9 @@
+# Method
+
+- repetition
+- practising
+- no comparison : Dan Abramov is a genius, you aren't. It's already lost to compare yourself to geniuses. So you have nothing to lose, rid of your ego
+
 # newCareer
 
 - Git : merge, rebase, reset/. Make PR on open source projects
